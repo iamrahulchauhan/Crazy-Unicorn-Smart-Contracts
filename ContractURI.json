@@ -1,0 +1,8 @@
+{
+	"name": "CrazyUnicorn",
+	"image": "ipfs://QmX9q2q1RhQagJzsmjvgyoffRP3kbJv9ufUM5NAbX1UXyK",
+	"description": "Crazy unicorn is a set of 1024 AI generated Unicorns with assorted features based on the random layers added to the program",
+    "seller_fee_basis_points": 1000,
+    "fee_recipient": "0xb6bef66e24a32a372d28e7d97c1da410a2a89662" 
+
+}
